@@ -1,0 +1,1082 @@
+,raceId,year,circuitId,grandprix,circuitRef,circuits,location,country
+0,1.0,2009.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+1,18.0,2008.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+2,36.0,2007.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+3,55.0,2006.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+4,71.0,2005.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+5,90.0,2004.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+6,108.0,2003.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+7,124.0,2002.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+8,141.0,2001.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+9,158.0,2000.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+10,175.0,1999.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+11,191.0,1998.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+12,207.0,1997.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+13,224.0,1996.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+14,338.0,2010.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+15,841.0,2011.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+16,860.0,2012.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+17,880.0,2013.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+18,900.0,2014.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+19,926.0,2015.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+20,948.0,2016.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+21,969.0,2017.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+22,989.0,2018.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+23,1010.0,2019.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+24,1076.0,2022.0,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia
+25,2.0,2009.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+26,19.0,2008.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+27,37.0,2007.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+28,54.0,2006.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+29,72.0,2005.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+30,91.0,2004.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+31,109.0,2003.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+32,125.0,2002.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+33,142.0,2001.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+34,174.0,2000.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+35,189.0,1999.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+36,339.0,2010.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+37,842.0,2011.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+38,861.0,2012.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+39,881.0,2013.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+40,901.0,2014.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+41,927.0,2015.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+42,963.0,2016.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+43,983.0,2017.0,2,Malaysian Grand Prix,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia
+44,4.0,2009.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+45,20.0,2008.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+46,38.0,2007.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+47,53.0,2006.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+48,73.0,2005.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+49,92.0,2004.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+50,337.0,2010.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+51,863.0,2012.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+52,883.0,2013.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+53,902.0,2014.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+54,929.0,2015.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+55,949.0,2016.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+56,971.0,2017.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+57,990.0,2018.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+58,1011.0,2019.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+59,1045.0,2020.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+60,1046.0,2020.0,3,Sakhir Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+61,1074.0,2022.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+62,1052.0,2021.0,3,Bahrain Grand Prix,bahrain,Bahrain International Circuit,Sakhir,Bahrain
+63,5.0,2009.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+64,21.0,2008.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+65,39.0,2007.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+66,58.0,2006.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+67,75.0,2005.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+68,94.0,2004.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+69,112.0,2003.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+70,128.0,2002.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+71,145.0,2001.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+72,162.0,2000.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+73,179.0,1999.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+74,195.0,1998.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+75,212.0,1997.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+76,230.0,1996.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+77,243.0,1995.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+78,261.0,1994.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+79,277.0,1993.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+80,292.0,1992.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+81,318.0,1991.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+82,341.0,2010.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+83,845.0,2011.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+84,864.0,2012.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+85,884.0,2013.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+86,904.0,2014.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+87,930.0,2015.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+88,952.0,2016.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+89,973.0,2017.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+90,993.0,2018.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+91,1014.0,2019.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+92,1036.0,2020.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+93,1055.0,2021.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+94,1079.0,2022.0,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain
+95,7.0,2009.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+96,22.0,2008.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+97,47.0,2007.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+98,66.0,2006.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+99,84.0,2005.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+100,343.0,2010.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+101,844.0,2011.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+102,1044.0,2020.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+103,1067.0,2021.0,5,Turkish Grand Prix,istanbul,Istanbul Park,Istanbul,Turkey
+104,6.0,2009.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+105,23.0,2008.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+106,40.0,2007.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+107,59.0,2006.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+108,76.0,2005.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+109,95.0,2004.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+110,114.0,2003.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+111,130.0,2002.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+112,147.0,2001.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+113,164.0,2000.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+114,178.0,1999.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+115,196.0,1998.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+116,211.0,1997.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+117,229.0,1996.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+118,244.0,1995.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+119,260.0,1994.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+120,278.0,1993.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+121,294.0,1992.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+122,308.0,1991.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+123,324.0,1990.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+124,342.0,2010.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+125,358.0,1989.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+126,374.0,1988.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+127,391.0,1987.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+128,407.0,1986.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+129,423.0,1985.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+130,441.0,1984.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+131,456.0,1983.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+132,472.0,1982.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+133,488.0,1981.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+134,503.0,1980.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+135,518.0,1979.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+136,531.0,1978.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+137,548.0,1977.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+138,565.0,1976.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+139,580.0,1975.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+140,595.0,1974.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+141,610.0,1973.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+142,623.0,1972.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+143,634.0,1971.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+144,645.0,1970.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+145,658.0,1969.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+146,669.0,1968.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+147,680.0,1967.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+148,690.0,1966.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+149,700.0,1965.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+150,709.0,1964.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+151,719.0,1963.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+152,730.0,1962.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+153,738.0,1961.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+154,747.0,1960.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+155,756.0,1959.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+156,766.0,1958.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+157,777.0,1957.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+158,785.0,1956.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+159,793.0,1955.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+160,834.0,1950.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+161,846.0,2011.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+162,865.0,2012.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+163,885.0,2013.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+164,905.0,2014.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+165,931.0,2015.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+166,953.0,2016.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+167,974.0,2017.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+168,994.0,2018.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+169,1015.0,2019.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+170,1056.0,2021.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+171,1080.0,2022.0,6,Monaco Grand Prix,monaco,Circuit de Monaco,Monte-Carlo,Monaco
+172,24.0,2008.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+173,41.0,2007.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+174,61.0,2006.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+175,78.0,2005.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+176,97.0,2004.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+177,115.0,2003.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+178,131.0,2002.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+179,148.0,2001.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+180,165.0,2000.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+181,180.0,1999.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+182,197.0,1998.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+183,213.0,1997.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+184,231.0,1996.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+185,245.0,1995.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+186,262.0,1994.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+187,279.0,1993.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+188,295.0,1992.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+189,309.0,1991.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+190,325.0,1990.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+191,344.0,2010.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+192,361.0,1989.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+193,376.0,1988.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+194,409.0,1986.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+195,424.0,1985.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+196,442.0,1984.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+197,459.0,1983.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+198,474.0,1982.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+199,496.0,1981.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+200,510.0,1980.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+201,525.0,1979.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+202,542.0,1978.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+203,847.0,2011.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+204,866.0,2012.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+205,886.0,2013.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+206,906.0,2014.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+207,932.0,2015.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+208,954.0,2016.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+209,975.0,2017.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+210,995.0,2018.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+211,1016.0,2019.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+212,1082.0,2022.0,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada
+213,25.0,2008.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+214,43.0,2007.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+215,63.0,2006.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+216,80.0,2005.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+217,99.0,2004.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+218,117.0,2003.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+219,134.0,2002.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+220,150.0,2001.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+221,166.0,2000.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+222,181.0,1999.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+223,198.0,1998.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+224,214.0,1997.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+225,232.0,1996.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+226,246.0,1995.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+227,263.0,1994.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+228,280.0,1993.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+229,296.0,1992.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+230,311.0,1991.0,8,French Grand Prix,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France
+231,8.0,2009.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+232,26.0,2008.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+233,44.0,2007.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+234,60.0,2006.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+235,81.0,2005.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+236,100.0,2004.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+237,118.0,2003.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+238,133.0,2002.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+239,151.0,2001.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+240,161.0,2000.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+241,182.0,1999.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+242,199.0,1998.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+243,215.0,1997.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+244,233.0,1996.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+245,247.0,1995.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+246,264.0,1994.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+247,281.0,1993.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+248,297.0,1992.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+249,312.0,1991.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+250,328.0,1990.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+251,346.0,2010.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+252,363.0,1989.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+253,379.0,1988.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+254,394.0,1987.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+255,427.0,1985.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+256,460.0,1983.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+257,491.0,1981.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+258,520.0,1979.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+259,552.0,1977.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+260,585.0,1975.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+261,613.0,1973.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+262,637.0,1971.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+263,661.0,1969.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+264,684.0,1967.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+265,703.0,1965.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+266,723.0,1963.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+267,752.0,1960.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+268,771.0,1958.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+269,789.0,1956.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+270,803.0,1954.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+271,813.0,1953.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+272,821.0,1952.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+273,829.0,1951.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+274,833.0,1950.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+275,849.0,2011.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+276,868.0,2012.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+277,887.0,2013.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+278,908.0,2014.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+279,934.0,2015.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+280,957.0,2016.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+281,978.0,2017.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+282,998.0,2018.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+283,1019.0,2019.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+284,1034.0,2020.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+285,1035.0,2020.0,9,70th Anniversary Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+286,1061.0,2021.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+287,1083.0,2022.0,9,British Grand Prix,silverstone,Silverstone Circuit,Silverstone,UK
+288,27.0,2008.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+289,64.0,2006.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+290,82.0,2005.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+291,101.0,2004.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+292,119.0,2003.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+293,135.0,2002.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+294,152.0,2001.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+295,168.0,2000.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+296,184.0,1999.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+297,201.0,1998.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+298,216.0,1997.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+299,234.0,1996.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+300,248.0,1995.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+301,265.0,1994.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+302,282.0,1993.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+303,298.0,1992.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+304,313.0,1991.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+305,329.0,1990.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+306,347.0,2010.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+307,364.0,1989.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+308,380.0,1988.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+309,395.0,1987.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+310,413.0,1986.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+311,446.0,1984.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+312,461.0,1983.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+313,478.0,1982.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+314,492.0,1981.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+315,506.0,1980.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+316,521.0,1979.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+317,537.0,1978.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+318,553.0,1977.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+319,650.0,1970.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+320,869.0,2012.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+321,909.0,2014.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+322,959.0,2016.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+323,999.0,2018.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+324,1020.0,2019.0,10,German Grand Prix,hockenheimring,Hockenheimring,Hockenheim,Germany
+325,10.0,2009.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+326,28.0,2008.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+327,46.0,2007.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+328,65.0,2006.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+329,83.0,2005.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+330,102.0,2004.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+331,120.0,2003.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+332,136.0,2002.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+333,153.0,2001.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+334,169.0,2000.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+335,185.0,1999.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+336,202.0,1998.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+337,217.0,1997.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+338,235.0,1996.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+339,249.0,1995.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+340,266.0,1994.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+341,283.0,1993.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+342,299.0,1992.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+343,314.0,1991.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+344,330.0,1990.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+345,348.0,2010.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+346,365.0,1989.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+347,381.0,1988.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+348,396.0,1987.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+349,414.0,1986.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+350,851.0,2011.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+351,870.0,2012.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+352,890.0,2013.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+353,910.0,2014.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+354,936.0,2015.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+355,958.0,2016.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+356,979.0,2017.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+357,1000.0,2018.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+358,1021.0,2019.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+359,1033.0,2020.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+360,1062.0,2021.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+361,1086.0,2022.0,11,Hungarian Grand Prix,hungaroring,Hungaroring,Budapest,Hungary
+362,11.0,2009.0,12,European Grand Prix,valencia,Valencia Street Circuit,Valencia,Spain
+363,29.0,2008.0,12,European Grand Prix,valencia,Valencia Street Circuit,Valencia,Spain
+364,345.0,2010.0,12,European Grand Prix,valencia,Valencia Street Circuit,Valencia,Spain
+365,848.0,2011.0,12,European Grand Prix,valencia,Valencia Street Circuit,Valencia,Spain
+366,867.0,2012.0,12,European Grand Prix,valencia,Valencia Street Circuit,Valencia,Spain
+367,12.0,2009.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+368,30.0,2008.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+369,49.0,2007.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+370,86.0,2005.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+371,103.0,2004.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+372,137.0,2002.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+373,154.0,2001.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+374,170.0,2000.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+375,186.0,1999.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+376,203.0,1998.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+377,218.0,1997.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+378,236.0,1996.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+379,250.0,1995.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+380,267.0,1994.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+381,284.0,1993.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+382,300.0,1992.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+383,315.0,1991.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+384,331.0,1990.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+385,349.0,2010.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+386,366.0,1989.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+387,382.0,1988.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+388,390.0,1987.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+389,408.0,1986.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+390,432.0,1985.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+391,457.0,1983.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+392,646.0,1970.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+393,670.0,1968.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+394,682.0,1967.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+395,691.0,1966.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+396,701.0,1965.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+397,711.0,1964.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+398,720.0,1963.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+399,731.0,1962.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+400,740.0,1961.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+401,750.0,1960.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+402,769.0,1958.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+403,787.0,1956.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+404,795.0,1955.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+405,801.0,1954.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+406,811.0,1953.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+407,819.0,1952.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+408,827.0,1951.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+409,837.0,1950.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+410,852.0,2011.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+411,871.0,2012.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+412,891.0,2013.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+413,911.0,2014.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+414,937.0,2015.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+415,960.0,2016.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+416,980.0,2017.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+417,1001.0,2018.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+418,1022.0,2019.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+419,1037.0,2020.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+420,1063.0,2021.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+421,1087.0,2022.0,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,Spa,Belgium
+422,13.0,2009.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+423,31.0,2008.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+424,48.0,2007.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+425,67.0,2006.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+426,85.0,2005.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+427,104.0,2004.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+428,121.0,2003.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+429,138.0,2002.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+430,155.0,2001.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+431,171.0,2000.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+432,187.0,1999.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+433,204.0,1998.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+434,219.0,1997.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+435,237.0,1996.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+436,251.0,1995.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+437,268.0,1994.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+438,285.0,1993.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+439,301.0,1992.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+440,316.0,1991.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+441,332.0,1990.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+442,350.0,2010.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+443,367.0,1989.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+444,383.0,1988.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+445,398.0,1987.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+446,416.0,1986.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+447,431.0,1985.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+448,449.0,1984.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+449,464.0,1983.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+450,481.0,1982.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+451,495.0,1981.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+452,524.0,1979.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+453,540.0,1978.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+454,556.0,1977.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+455,572.0,1976.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+456,588.0,1975.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+457,602.0,1974.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+458,617.0,1973.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+459,629.0,1972.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+460,640.0,1971.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+461,652.0,1970.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+462,663.0,1969.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+463,675.0,1968.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+464,687.0,1967.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+465,696.0,1966.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+466,706.0,1965.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+467,716.0,1964.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+468,725.0,1963.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+469,735.0,1962.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+470,744.0,1961.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+471,754.0,1960.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+472,763.0,1959.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+473,774.0,1958.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+474,783.0,1957.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+475,791.0,1956.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+476,798.0,1955.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+477,806.0,1954.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+478,816.0,1953.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+479,824.0,1952.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+480,831.0,1951.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+481,839.0,1950.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+482,853.0,2011.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+483,872.0,2012.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+484,892.0,2013.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+485,912.0,2014.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+486,938.0,2015.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+487,961.0,2016.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+488,981.0,2017.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+489,1002.0,2018.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+490,1023.0,2019.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+491,1038.0,2020.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+492,1065.0,2021.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+493,1089.0,2022.0,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,Monza,Italy
+494,14.0,2009.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+495,32.0,2008.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+496,351.0,2010.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+497,854.0,2011.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+498,873.0,2012.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+499,893.0,2013.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+500,913.0,2014.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+501,939.0,2015.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+502,962.0,2016.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+503,982.0,2017.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+504,1003.0,2018.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+505,1024.0,2019.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+506,1091.0,2022.0,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore
+507,33.0,2008.0,16,Japanese Grand Prix,fuji,Fuji Speedway,Oyama,Japan
+508,50.0,2007.0,16,Japanese Grand Prix,fuji,Fuji Speedway,Oyama,Japan
+509,559.0,1977.0,16,Japanese Grand Prix,fuji,Fuji Speedway,Oyama,Japan
+510,575.0,1976.0,16,Japanese Grand Prix,fuji,Fuji Speedway,Oyama,Japan
+511,3.0,2009.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+512,34.0,2008.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+513,51.0,2007.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+514,68.0,2006.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+515,89.0,2005.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+516,105.0,2004.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+517,340.0,2010.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+518,843.0,2011.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+519,862.0,2012.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+520,882.0,2013.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+521,903.0,2014.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+522,928.0,2015.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+523,950.0,2016.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+524,970.0,2017.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+525,991.0,2018.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+526,1012.0,2019.0,17,Chinese Grand Prix,shanghai,Shanghai International Circuit,Shanghai,China
+527,16.0,2009.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+528,35.0,2008.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+529,52.0,2007.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+530,70.0,2006.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+531,87.0,2005.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+532,107.0,2004.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+533,110.0,2003.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+534,126.0,2002.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+535,143.0,2001.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+536,159.0,2000.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+537,176.0,1999.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+538,192.0,1998.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+539,208.0,1997.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+540,225.0,1996.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+541,240.0,1995.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+542,257.0,1994.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+543,274.0,1993.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+544,291.0,1992.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+545,306.0,1991.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+546,322.0,1990.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+547,354.0,2010.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+548,499.0,1980.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+549,513.0,1979.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+550,544.0,1977.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+551,560.0,1976.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+552,577.0,1975.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+553,591.0,1974.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+554,606.0,1973.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+555,859.0,2011.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+556,879.0,2012.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+557,899.0,2013.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+558,917.0,2014.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+559,944.0,2015.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+560,967.0,2016.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+561,987.0,2017.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+562,1008.0,2018.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+563,1029.0,2019.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+564,1071.0,2021.0,18,São Paulo Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+565,1095.0,2022.0,18,Brazilian Grand Prix,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil
+566,42.0,2007.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+567,62.0,2006.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+568,79.0,2005.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+569,98.0,2004.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+570,122.0,2003.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+571,139.0,2002.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+572,156.0,2001.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+573,172.0,2000.0,19,United States Grand Prix,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+574,748.0,1960.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+575,757.0,1959.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+576,768.0,1958.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+577,778.0,1957.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+578,786.0,1956.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+579,794.0,1955.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+580,800.0,1954.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+581,809.0,1953.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+582,818.0,1952.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+583,826.0,1951.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+584,835.0,1950.0,19,Indianapolis 500,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA
+585,9.0,2009.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+586,45.0,2007.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+587,57.0,2006.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+588,77.0,2005.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+589,96.0,2004.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+590,116.0,2003.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+591,132.0,2002.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+592,149.0,2001.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+593,163.0,2000.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+594,188.0,1999.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+595,205.0,1998.0,20,Luxembourg Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+596,221.0,1997.0,20,Luxembourg Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+597,227.0,1996.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+598,253.0,1995.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+599,428.0,1985.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+600,450.0,1984.0,20,European Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+601,569.0,1976.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+602,586.0,1975.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+603,600.0,1974.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+604,615.0,1973.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+605,627.0,1972.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+606,638.0,1971.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+607,662.0,1969.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+608,674.0,1968.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+609,685.0,1967.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+610,695.0,1966.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+611,705.0,1965.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+612,714.0,1964.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+613,724.0,1963.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+614,734.0,1962.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+615,743.0,1961.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+616,772.0,1958.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+617,781.0,1957.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+618,790.0,1956.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+619,804.0,1954.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+620,814.0,1953.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+621,822.0,1952.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+622,830.0,1951.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+623,850.0,2011.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+624,888.0,2013.0,20,German Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+625,1041.0,2020.0,20,Eifel Grand Prix,nurburgring,Nürburgring,Nürburg,Germany
+626,56.0,2006.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+627,74.0,2005.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+628,93.0,2004.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+629,111.0,2003.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+630,127.0,2002.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+631,144.0,2001.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+632,160.0,2000.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+633,177.0,1999.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+634,194.0,1998.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+635,210.0,1997.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+636,228.0,1996.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+637,242.0,1995.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+638,259.0,1994.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+639,276.0,1993.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+640,293.0,1992.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+641,307.0,1991.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+642,323.0,1990.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+643,357.0,1989.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+644,373.0,1988.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+645,389.0,1987.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+646,406.0,1986.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+647,422.0,1985.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+648,439.0,1984.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+649,455.0,1983.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+650,470.0,1982.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+651,486.0,1981.0,21,San Marino Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+652,509.0,1980.0,21,Italian Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+653,1043.0,2020.0,21,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+654,1053.0,2021.0,21,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+655,1077.0,2022.0,21,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy
+656,15.0,2009.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+657,69.0,2006.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+658,88.0,2005.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+659,106.0,2004.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+660,123.0,2003.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+661,140.0,2002.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+662,157.0,2001.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+663,173.0,2000.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+664,190.0,1999.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+665,206.0,1998.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+666,222.0,1997.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+667,239.0,1996.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+668,255.0,1995.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+669,271.0,1994.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+670,287.0,1993.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+671,303.0,1992.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+672,319.0,1991.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+673,335.0,1990.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+674,352.0,2010.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+675,370.0,1989.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+676,386.0,1988.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+677,402.0,1987.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+678,855.0,2011.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+679,874.0,2012.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+680,895.0,2013.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+681,914.0,2014.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+682,940.0,2015.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+683,964.0,2016.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+684,984.0,2017.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+685,1005.0,2018.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+686,1026.0,2019.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+687,1092.0,2022.0,22,Japanese Grand Prix,suzuka,Suzuka Circuit,Suzuka,Japan
+688,113.0,2003.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+689,129.0,2002.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+690,146.0,2001.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+691,167.0,2000.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+692,183.0,1999.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+693,200.0,1998.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+694,220.0,1997.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+695,397.0,1987.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+696,415.0,1986.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+697,429.0,1985.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+698,447.0,1984.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+699,462.0,1983.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+700,479.0,1982.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+701,493.0,1981.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+702,507.0,1980.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+703,522.0,1979.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+704,538.0,1978.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+705,554.0,1977.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+706,570.0,1976.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+707,587.0,1975.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+708,601.0,1974.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+709,616.0,1973.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+710,628.0,1972.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+711,639.0,1971.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+712,651.0,1970.0,23,Austrian Grand Prix,osterreichring,A1-Ring,Spielberg,Austria
+713,17.0,2009.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+714,355.0,2010.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+715,858.0,2011.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+716,877.0,2012.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+717,897.0,2013.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+718,918.0,2014.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+719,945.0,2015.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+720,968.0,2016.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+721,988.0,2017.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+722,1009.0,2018.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+723,1030.0,2019.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+724,1047.0,2020.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+725,1073.0,2021.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+726,1096.0,2022.0,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE
+727,193.0,1998.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+728,209.0,1997.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+729,226.0,1996.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+730,241.0,1995.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+731,485.0,1981.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+732,498.0,1980.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+733,512.0,1979.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+734,527.0,1978.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+735,543.0,1977.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+736,576.0,1975.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+737,590.0,1974.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+738,605.0,1973.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+739,620.0,1972.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+740,746.0,1960.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+741,765.0,1958.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+742,776.0,1957.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+743,784.0,1956.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+744,792.0,1955.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+745,799.0,1954.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+746,808.0,1953.0,25,Argentine Grand Prix,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina
+747,223.0,1997.0,26,European Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+748,270.0,1994.0,26,European Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+749,334.0,1990.0,26,Spanish Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+750,369.0,1989.0,26,Spanish Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+751,385.0,1988.0,26,Spanish Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+752,400.0,1987.0,26,Spanish Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+753,405.0,1986.0,26,Spanish Grand Prix,jerez,Circuito de Jerez,Jerez de la Frontera,Spain
+754,238.0,1996.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+755,252.0,1995.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+756,269.0,1994.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+757,286.0,1993.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+758,302.0,1992.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+759,317.0,1991.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+760,333.0,1990.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+761,368.0,1989.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+762,384.0,1988.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+763,399.0,1987.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+764,417.0,1986.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+765,421.0,1985.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+766,451.0,1984.0,27,Portuguese Grand Prix,estoril,Autódromo do Estoril,Estoril,Portugal
+767,254.0,1995.0,28,Pacific Grand Prix,okayama,Okayama International Circuit,Okayama,Japan
+768,258.0,1994.0,28,Pacific Grand Prix,okayama,Okayama International Circuit,Okayama,Japan
+769,256.0,1995.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+770,272.0,1994.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+771,288.0,1993.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+772,304.0,1992.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+773,320.0,1991.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+774,336.0,1990.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+775,371.0,1989.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+776,387.0,1988.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+777,403.0,1987.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+778,419.0,1986.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+779,435.0,1985.0,29,Australian Grand Prix,adelaide,Adelaide Street Circuit,Adelaide,Australia
+780,273.0,1993.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+781,289.0,1992.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+782,434.0,1985.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+783,437.0,1984.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+784,466.0,1983.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+785,467.0,1982.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+786,500.0,1980.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+787,514.0,1979.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+788,529.0,1978.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+789,545.0,1977.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+790,561.0,1976.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+791,578.0,1975.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+792,592.0,1974.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+793,607.0,1973.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+794,621.0,1972.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+795,632.0,1971.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+796,643.0,1970.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+797,656.0,1969.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+798,667.0,1968.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+799,679.0,1967.0,30,South African Grand Prix,kyalami,Kyalami,Midrand,South Africa
+800,275.0,1993.0,31,European Grand Prix,donington,Donington Park,Castle Donington,UK
+801,290.0,1992.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+802,310.0,1991.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+803,326.0,1990.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+804,359.0,1989.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+805,375.0,1988.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+806,401.0,1987.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+807,418.0,1986.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+808,655.0,1970.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+809,666.0,1969.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+810,678.0,1968.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+811,689.0,1967.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+812,698.0,1966.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+813,708.0,1965.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+814,718.0,1964.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+815,727.0,1963.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+816,943.0,2015.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+817,966.0,2016.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+818,986.0,2017.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+819,1007.0,2018.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+820,1027.0,2019.0,32,Mexican Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+821,1070.0,2021.0,32,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+822,1094.0,2022.0,32,Mexico City Grand Prix,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico
+823,305.0,1991.0,33,United States Grand Prix,phoenix,Phoenix street circuit,Phoenix,USA
+824,321.0,1990.0,33,United States Grand Prix,phoenix,Phoenix street circuit,Phoenix,USA
+825,360.0,1989.0,33,United States Grand Prix,phoenix,Phoenix street circuit,Phoenix,USA
+826,327.0,1990.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+827,362.0,1989.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+828,378.0,1988.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+829,393.0,1987.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+830,411.0,1986.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+831,426.0,1985.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+832,454.0,1983.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+833,477.0,1982.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+834,504.0,1980.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+835,535.0,1978.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+836,567.0,1976.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+837,584.0,1975.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+838,612.0,1973.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+839,636.0,1971.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+840,996.0,2018.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+841,1017.0,2019.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+842,1059.0,2021.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+843,1085.0,2022.0,34,French Grand Prix,ricard,Circuit Paul Ricard,Le Castellet,France
+844,353.0,2010.0,35,Korean Grand Prix,yeongam,Korean International Circuit,Yeongam County,Korea
+845,856.0,2011.0,35,Korean Grand Prix,yeongam,Korean International Circuit,Yeongam County,Korea
+846,875.0,2012.0,35,Korean Grand Prix,yeongam,Korean International Circuit,Yeongam County,Korea
+847,894.0,2013.0,35,Korean Grand Prix,yeongam,Korean International Circuit,Yeongam County,Korea
+848,356.0,1989.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+849,372.0,1988.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+850,388.0,1987.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+851,404.0,1986.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+852,420.0,1985.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+853,436.0,1984.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+854,452.0,1983.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+855,468.0,1982.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+856,484.0,1981.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+857,528.0,1978.0,36,Brazilian Grand Prix,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil
+858,377.0,1988.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+859,392.0,1987.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+860,410.0,1986.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+861,425.0,1985.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+862,443.0,1984.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+863,458.0,1983.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+864,473.0,1982.0,37,Detroit Grand Prix,detroit,Detroit Street Circuit,Detroit,USA
+865,412.0,1986.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+866,433.0,1985.0,38,European Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+867,445.0,1984.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+868,465.0,1983.0,38,European Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+869,476.0,1982.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+870,505.0,1980.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+871,536.0,1978.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+872,568.0,1976.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+873,599.0,1974.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+874,626.0,1972.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+875,649.0,1970.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+876,673.0,1968.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+877,693.0,1966.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+878,713.0,1964.0,38,British Grand Prix,brands_hatch,Brands Hatch,Kent,UK
+879,430.0,1985.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+880,448.0,1984.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+881,463.0,1983.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+882,475.0,1982.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+883,494.0,1981.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+884,508.0,1980.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+885,523.0,1979.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+886,539.0,1978.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+887,555.0,1977.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+888,571.0,1976.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+889,583.0,1975.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+890,597.0,1974.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+891,614.0,1973.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+892,635.0,1971.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+893,647.0,1970.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+894,659.0,1969.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+895,671.0,1968.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+896,681.0,1967.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+897,694.0,1966.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+898,704.0,1965.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+899,710.0,1964.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+900,721.0,1963.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+901,729.0,1962.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+902,739.0,1961.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+903,749.0,1960.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+904,758.0,1959.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+905,767.0,1958.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+906,796.0,1955.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+907,810.0,1953.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+908,823.0,1952.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+909,1064.0,2021.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+910,1088.0,2022.0,39,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands
+911,438.0,1984.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+912,471.0,1982.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+913,487.0,1981.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+914,502.0,1980.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+915,517.0,1979.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+916,532.0,1978.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+917,549.0,1977.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+918,564.0,1976.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+919,581.0,1975.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+920,609.0,1973.0,40,Belgian Grand Prix,zolder,Zolder,Heusden-Zolder,Belgium
+921,440.0,1984.0,41,French Grand Prix,dijon,Dijon-Prenois,Dijon,France
+922,480.0,1982.0,41,Swiss Grand Prix,dijon,Dijon-Prenois,Dijon,France
+923,490.0,1981.0,41,French Grand Prix,dijon,Dijon-Prenois,Dijon,France
+924,519.0,1979.0,41,French Grand Prix,dijon,Dijon-Prenois,Dijon,France
+925,551.0,1977.0,41,French Grand Prix,dijon,Dijon-Prenois,Dijon,France
+926,598.0,1974.0,41,French Grand Prix,dijon,Dijon-Prenois,Dijon,France
+927,444.0,1984.0,42,Dallas Grand Prix,dallas,Fair Park,Dallas,USA
+928,453.0,1983.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+929,469.0,1982.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+930,483.0,1981.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+931,501.0,1980.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+932,515.0,1979.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+933,530.0,1978.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+934,546.0,1977.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+935,562.0,1976.0,43,United States Grand Prix West,long_beach,Long Beach,California,USA
+936,482.0,1982.0,44,Caesars Palace Grand Prix,las_vegas,Las Vegas Street Circuit,Nevada,USA
+937,497.0,1981.0,44,Caesars Palace Grand Prix,las_vegas,Las Vegas Street Circuit,Nevada,USA
+938,489.0,1981.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+939,516.0,1979.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+940,533.0,1978.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+941,547.0,1977.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+942,563.0,1976.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+943,593.0,1974.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+944,622.0,1972.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+945,644.0,1970.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+946,668.0,1968.0,45,Spanish Grand Prix,jarama,Jarama,Madrid,Spain
+947,511.0,1980.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+948,526.0,1979.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+949,541.0,1978.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+950,557.0,1977.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+951,574.0,1976.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+952,589.0,1975.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+953,604.0,1974.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+954,619.0,1973.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+955,631.0,1972.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+956,642.0,1971.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+957,654.0,1970.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+958,665.0,1969.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+959,677.0,1968.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+960,688.0,1967.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+961,697.0,1966.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+962,707.0,1965.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+963,717.0,1964.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+964,726.0,1963.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+965,736.0,1962.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+966,745.0,1961.0,46,United States Grand Prix,watkins_glen,Watkins Glen,New York State,USA
+967,534.0,1978.0,47,Swedish Grand Prix,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+968,550.0,1977.0,47,Swedish Grand Prix,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+969,566.0,1976.0,47,Swedish Grand Prix,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+970,582.0,1975.0,47,Swedish Grand Prix,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+971,596.0,1974.0,47,Swedish Grand Prix,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+972,611.0,1973.0,47,Swedish Grand Prix,anderstorp,Scandinavian Raceway,Anderstorp,Sweden
+973,558.0,1977.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+974,573.0,1976.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+975,603.0,1974.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+976,618.0,1973.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+977,630.0,1972.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+978,641.0,1971.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+979,664.0,1969.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+980,686.0,1967.0,48,Canadian Grand Prix,mosport,Mosport International Raceway,Ontario,Canada
+981,579.0,1975.0,49,Spanish Grand Prix,montjuic,Montjuïc,Barcelona,Spain
+982,608.0,1973.0,49,Spanish Grand Prix,montjuic,Montjuïc,Barcelona,Spain
+983,633.0,1971.0,49,Spanish Grand Prix,montjuic,Montjuïc,Barcelona,Spain
+984,657.0,1969.0,49,Spanish Grand Prix,montjuic,Montjuïc,Barcelona,Spain
+985,594.0,1974.0,50,Belgian Grand Prix,nivelles,Nivelles-Baulers,Brussels,Belgium
+986,624.0,1972.0,50,Belgian Grand Prix,nivelles,Nivelles-Baulers,Brussels,Belgium
+987,625.0,1972.0,51,French Grand Prix,charade,Charade Circuit,Clermont-Ferrand,France
+988,648.0,1970.0,51,French Grand Prix,charade,Charade Circuit,Clermont-Ferrand,France
+989,660.0,1969.0,51,French Grand Prix,charade,Charade Circuit,Clermont-Ferrand,France
+990,702.0,1965.0,51,French Grand Prix,charade,Charade Circuit,Clermont-Ferrand,France
+991,653.0,1970.0,52,Canadian Grand Prix,tremblant,Circuit Mont-Tremblant,Quebec,Canada
+992,676.0,1968.0,52,Canadian Grand Prix,tremblant,Circuit Mont-Tremblant,Quebec,Canada
+993,672.0,1968.0,53,French Grand Prix,essarts,Rouen-Les-Essarts,Rouen,France
+994,712.0,1964.0,53,French Grand Prix,essarts,Rouen-Les-Essarts,Rouen,France
+995,732.0,1962.0,53,French Grand Prix,essarts,Rouen-Les-Essarts,Rouen,France
+996,779.0,1957.0,53,French Grand Prix,essarts,Rouen-Les-Essarts,Rouen,France
+997,820.0,1952.0,53,French Grand Prix,essarts,Rouen-Les-Essarts,Rouen,France
+998,683.0,1967.0,54,French Grand Prix,lemans,Le Mans,Le Mans,France
+999,692.0,1966.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1000,722.0,1963.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1001,741.0,1961.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1002,751.0,1960.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1003,759.0,1959.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1004,770.0,1958.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1005,788.0,1956.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1006,802.0,1954.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1007,812.0,1953.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1008,828.0,1951.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1009,838.0,1950.0,55,French Grand Prix,reims,Reims-Gueux,Reims,France
+1010,699.0,1965.0,56,South African Grand Prix,george,Prince George Circuit,Eastern Cape Province,South Africa
+1011,728.0,1963.0,56,South African Grand Prix,george,Prince George Circuit,Eastern Cape Province,South Africa
+1012,737.0,1962.0,56,South African Grand Prix,george,Prince George Circuit,Eastern Cape Province,South Africa
+1013,715.0,1964.0,57,Austrian Grand Prix,zeltweg,Zeltweg,Styria,Austria
+1014,733.0,1962.0,58,British Grand Prix,aintree,Aintree,Liverpool,UK
+1015,742.0,1961.0,58,British Grand Prix,aintree,Aintree,Liverpool,UK
+1016,760.0,1959.0,58,British Grand Prix,aintree,Aintree,Liverpool,UK
+1017,780.0,1957.0,58,British Grand Prix,aintree,Aintree,Liverpool,UK
+1018,797.0,1955.0,58,British Grand Prix,aintree,Aintree,Liverpool,UK
+1019,753.0,1960.0,59,Portuguese Grand Prix,boavista,Circuito da Boavista,Oporto,Portugal
+1020,773.0,1958.0,59,Portuguese Grand Prix,boavista,Circuito da Boavista,Oporto,Portugal
+1021,755.0,1960.0,60,United States Grand Prix,riverside,Riverside International Raceway,California,USA
+1022,761.0,1959.0,61,German Grand Prix,avus,AVUS,Berlin,Germany
+1023,762.0,1959.0,62,Portuguese Grand Prix,monsanto,Monsanto Park Circuit,Lisbon,Portugal
+1024,764.0,1959.0,63,United States Grand Prix,sebring,Sebring International Raceway,Florida,USA
+1025,775.0,1958.0,64,Moroccan Grand Prix,ain-diab,Ain Diab,Casablanca,Morocco
+1026,782.0,1957.0,65,Pescara Grand Prix,pescara,Pescara Circuit,Pescara,Italy
+1027,805.0,1954.0,66,Swiss Grand Prix,bremgarten,Circuit Bremgarten,Bern,Switzerland
+1028,815.0,1953.0,66,Swiss Grand Prix,bremgarten,Circuit Bremgarten,Bern,Switzerland
+1029,817.0,1952.0,66,Swiss Grand Prix,bremgarten,Circuit Bremgarten,Bern,Switzerland
+1030,825.0,1951.0,66,Swiss Grand Prix,bremgarten,Circuit Bremgarten,Bern,Switzerland
+1031,836.0,1950.0,66,Swiss Grand Prix,bremgarten,Circuit Bremgarten,Bern,Switzerland
+1032,807.0,1954.0,67,Spanish Grand Prix,pedralbes,Circuit de Pedralbes,Barcelona,Spain
+1033,832.0,1951.0,67,Spanish Grand Prix,pedralbes,Circuit de Pedralbes,Barcelona,Spain
+1034,857.0,2011.0,68,Indian Grand Prix,buddh,Buddh International Circuit,Uttar Pradesh,India
+1035,876.0,2012.0,68,Indian Grand Prix,buddh,Buddh International Circuit,Uttar Pradesh,India
+1036,896.0,2013.0,68,Indian Grand Prix,buddh,Buddh International Circuit,Uttar Pradesh,India
+1037,878.0,2012.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1038,898.0,2013.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1039,916.0,2014.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1040,942.0,2015.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1041,965.0,2016.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1042,985.0,2017.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1043,1006.0,2018.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1044,1028.0,2019.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1045,1069.0,2021.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1046,1093.0,2022.0,69,United States Grand Prix,americas,Circuit of the Americas,Austin,USA
+1047,907.0,2014.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1048,933.0,2015.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1049,956.0,2016.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1050,977.0,2017.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1051,997.0,2018.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1052,1018.0,2019.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1053,1031.0,2020.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1054,1032.0,2020.0,70,Styrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1055,1058.0,2021.0,70,Styrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1056,1060.0,2021.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1057,1084.0,2022.0,70,Austrian Grand Prix,red_bull_ring,Red Bull Ring,Spielberg,Austria
+1058,915.0,2014.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1059,941.0,2015.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1060,951.0,2016.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1061,972.0,2017.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1062,1004.0,2018.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1063,1025.0,2019.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1064,1040.0,2020.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1065,1066.0,2021.0,71,Russian Grand Prix,sochi,Sochi Autodrom,Sochi,Russia
+1066,,,72,,port_imperial,Port Imperial Street Circuit,New Jersey,USA
+1067,955.0,2016.0,73,European Grand Prix,BAK,Baku City Circuit,Baku,Azerbaijan
+1068,976.0,2017.0,73,Azerbaijan Grand Prix,BAK,Baku City Circuit,Baku,Azerbaijan
+1069,992.0,2018.0,73,Azerbaijan Grand Prix,BAK,Baku City Circuit,Baku,Azerbaijan
+1070,1013.0,2019.0,73,Azerbaijan Grand Prix,BAK,Baku City Circuit,Baku,Azerbaijan
+1071,1057.0,2021.0,73,Azerbaijan Grand Prix,BAK,Baku City Circuit,Baku,Azerbaijan
+1072,1081.0,2022.0,73,Azerbaijan Grand Prix,BAK,Baku City Circuit,Baku,Azerbaijan
+1073,,,74,,hanoi,Hanoi Street Circuit,Hanoi,Vietnam
+1074,1042.0,2020.0,75,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,Portimão,Portugal
+1075,1054.0,2021.0,75,Portuguese Grand Prix,portimao,Autódromo Internacional do Algarve,Portimão,Portugal
+1076,1039.0,2020.0,76,Tuscan Grand Prix,mugello,Autodromo Internazionale del Mugello,Mugello,Italy
+1077,1072.0,2021.0,77,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia
+1078,1075.0,2022.0,77,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,Jeddah,Saudi Arabia
+1079,1051.0,2021.0,78,Qatar Grand Prix,losail,Losail International Circuit,Al Daayen,Qatar
+1080,1078.0,2022.0,79,Miami Grand Prix,miami,Miami International Autodrome,Miami,USA
